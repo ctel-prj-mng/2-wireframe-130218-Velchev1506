@@ -1,0 +1,15 @@
+header{width: 100%;
+	background:url(http://beloweb.ru/wp-content/uploads/2012/08/upgrade.jpg) no-repeat center bottom;;
+	height: 150px;
+}
+   table {
+    width: 100%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: white; /* Цвет текста */
+    border-spacing: 1px; /* Расстояние между ячейками */
+   }
+   td, th {
+    background: maroon; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+   }
+  
